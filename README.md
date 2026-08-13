@@ -5,6 +5,8 @@ Navigating Density Topologies: Multi-Scale Markov Chains for Real-Time Rhythmic 
 The examples are excerpts from longer improvisations in which the system configuration remains unchanged. 
 Thus, the differences in the rhythmic generator’s behaviour are solely caused by differences in the improviser’s actions.
 
-The examples labelled regular are based on a regular improvisation, in the form of a walking bass.
+In the audio_examples folder are the files of the experiments discussed in the paper.
 
+In the new_audio_examples are new examples based on these assumptions:
+The examples labelled regular are based on a regular improvisation, in the form of a walking bass;
 The examples labelled sparse are based on an alternation of regular and irregular actions, with one minute of each.
